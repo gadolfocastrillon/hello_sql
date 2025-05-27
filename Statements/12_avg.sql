@@ -1,0 +1,1 @@
+SELECT avg(age) name FROM users;
